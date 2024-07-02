@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="51.656 60.266 923.238 439.734" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="283.15" y1="40.433" x2="283.15" y2="519.411" id="gradient-0" gradientTransform="matrix(0.999955, 0.009536, -0.010271, 1.077033, -13.100841, -42.712193)">
+      <stop offset="0" style="stop-color: rgb(255, 248, 233);"/>
+      <stop offset="0.358" style="stop-color: rgb(105, 60, 0);"/>
+      <stop offset="1" style="stop-color: rgb(0% 34.109% 0%)"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="562.554" y1="164.454" x2="562.554" y2="517.985" id="gradient-1" gradientTransform="matrix(0.999898, 0.014337, -0.020873, 1.45574, 10.870011, -244.13229)">
+      <stop offset="0" style="stop-color: rgb(255, 255, 255);"/>
+      <stop offset="0.441" style="stop-color: rgb(107, 60, 0);"/>
+      <stop offset="1" style="stop-color: rgb(0% 34.109% 0%)"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="819.862" y1="182.986" x2="819.862" y2="516.56" id="gradient-2" gradientTransform="matrix(0.999789, 0.020661, -0.029496, 1.537795, 15.409701, -294.741706)">
+      <stop offset="0" style="stop-color: rgb(255, 255, 255);"/>
+      <stop offset="0.42" style="stop-color: rgb(111, 59, 0);"/>
+      <stop offset="1" style="stop-color: rgb(0% 34.109% 0%)"/>
+    </linearGradient>
+  </defs>
+  <path d="M 524.552 233.393 Q 571.892 164.454 615.59 233.393 L 752.287 449.046 Q 795.985 517.985 704.947 517.985 L 420.162 517.985 Q 329.124 517.985 376.464 449.046 Z" style="fill: url('#gradient-1');" bx:shape="triangle 329.124 164.454 466.861 353.531 0.52 0.195 1@628bf7dd"/>
+  <path d="M 824.387 77.143 Q 836.498 64.485 847.677 77.143 L 1224.581 503.902 Q 1235.76 516.56 1212.47 516.56 L 427.254 516.56 Q 403.964 516.56 416.075 503.902 Z" style="fill: url('#gradient-2');" bx:shape="triangle 403.964 64.485 831.796 452.075 0.52 0.028 1@737b54d3"/>
+  <path d="M 207.372 140.539 Q 277.631 40.433 342.486 140.539 L 523.085 419.305 Q 587.94 519.411 452.826 519.411 L 76.577 519.411 Q -58.537 519.411 11.722 419.305 Z" style="fill: url('#gradient-0');" bx:shape="triangle -58.537 40.433 646.477 478.978 0.52 0.209 1@72d2a966"/>
+  <path d="M -2.225 247.033 L 189.051 517.614 L -209.44 517.614 L -2.225 247.033 Z" style="fill: rgb(23, 82, 0);" bx:shape="triangle -209.44 247.033 398.491 270.581 0.52 0 1@b75e01eb"/>
+</svg>
